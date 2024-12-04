@@ -1,0 +1,3 @@
+"""
+Scratch Detection package initialization
+"""

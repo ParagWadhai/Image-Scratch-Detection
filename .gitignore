@@ -1,0 +1,7 @@
+venv/
+data/
+
+# Ignore large files
+*.dll
+*.lib
+*.pth
